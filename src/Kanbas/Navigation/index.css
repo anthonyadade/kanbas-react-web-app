@@ -10,12 +10,13 @@
 }
 .wd-kanbas-navigation li.wd-active {
     background-color: white;
+    color: red;
 }
 .x li.wd-active a {
     color: red;
 }
 .wd-kanbas-navigation a {
-    color: white;
+    color: red;
     text-decoration: none;
 }
 .wd-kanbas-navigation a i {

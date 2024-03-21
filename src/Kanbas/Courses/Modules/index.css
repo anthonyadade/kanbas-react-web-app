@@ -30,3 +30,16 @@
 .wd-modules > li {
     margin-bottom: 20px;
 }
+
+.wd-modules-button {
+    padding: 3px 10px;
+    background-color: red;
+    border-radius: 8px;
+    margin-right: 5px;
+    border-color: black;
+    border-style: solid;
+}
+.wd-modules-inputs {
+    margin-right: 5px;
+    border-radius: 5px;
+}
